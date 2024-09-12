@@ -11,7 +11,7 @@ const OpenAI = require("openai");
 
 
 const openai = new OpenAI({ 
-  apiKey: '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'});
+  apiKey: "your api key"});
   
 
 // google oauth
