@@ -13,7 +13,7 @@ This is a server-based application built with Node.js and Express. It uses vario
 
 ## Video links :
 <br>
-Video link for demo of this Application - [Link](https://www.loom.com/share/fc3a428368e5482783304b07ad2717d4?sid=be310aca-5038-4adf-b68b-9c248a101bf0)
+Video link for demo of this Application - [Link](https://www.loom.com/share/fc3a428368e5482783304b07ad2717d4?sid=be310aca-5038-4adf-b68b-9c248a101bf0/)
 
 
 
