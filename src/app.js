@@ -28,7 +28,7 @@ app.use("/", googleRouter);
 app.use("/api/mail", router);
 
 app.get("/", async (req, res) => {
-   res.redirect("http://localhost:3000/")
+   res.redirect("http://localhost:3000")
 });
 
 app.listen(process.env.PORT, () => {
