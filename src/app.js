@@ -28,7 +28,7 @@ app.use("/", googleRouter);
 app.use("/api/mail", router);
 
 app.get("/", async (req, res) => {
-   res.redirect("https://documenter.getpostman.com/view/31971527/2sA35D43FE")
+   res.redirect("http://localhost:3000/")
 });
 
 app.listen(process.env.PORT, () => {
