@@ -11,7 +11,7 @@ const OpenAI = require("openai");
 
 
 const openai = new OpenAI({ 
-  apiKey: "your api key"});
+  apiKey: process.env.OPENAI_SECRECT_KEY});
   
 
 // google oauth
