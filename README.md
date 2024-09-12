@@ -1,6 +1,6 @@
 # ReachInBox Assignment
 
-# Hello all, Due to the time constraint the some part of the assignment was pending.
+## Hello all, Due to the time constraint the some part of the assignment was pending.
 ## Server
 The assignment is to build a tool that will parse and check the emails in a Google email ID, and
 respond to the e-mails based on the context using AI. Use BullMQ as the tasks scheduler
@@ -12,8 +12,7 @@ This is a server-based application built with Node.js and Express. It uses vario
 2. You need to Run the `Redis` Server Before Runinng the File. Redis is in-memory database which holdes the message Queue data and BullMQ is bult on top of Redis.
 
 ## Video links :
-<br>
-Video link for demo of this Application - [Link](https://www.loom.com/share/fc3a428368e5482783304b07ad2717d4?sid=be310aca-5038-4adf-b68b-9c248a101bf0/)
+Video link for demo of this Application -[Loom Link](https://www.loom.com/share/fc3a428368e5482783304b07ad2717d4?sid=be310aca-5038-4adf-b68b-9c248a101bf0/)
 
 
 
@@ -69,6 +68,6 @@ GOOGLE_CLIENT_SECRET = ***
 GOOGLE_REDIRECT_URI = ***
 GOOGLE_REFRESH_TOKEN = ***
 OPENAI_SECRECT_KEY = ***
-redis_port = ***(default `6379`)
-redis_host = ***(default [localhst](http://127.0.0.1))
+redis_port = ***(default 6379)
+redis_host = ***(default= http://127.0.0.1)
 ```
